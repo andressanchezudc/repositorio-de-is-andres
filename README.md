@@ -5,4 +5,7 @@ Primer proyecto del Taller de Ingeniería de Software del M2i
 
 Aquí iría el manual de usuario
 
-$$x = y^2$$
+$$
+x = y^2
+z = x^y
+$$
